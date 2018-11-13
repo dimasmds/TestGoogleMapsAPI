@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test Google Maps API</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="open_maps_activity">Open Maps Activity</string>
+
+    <!-- Shared Reference String -->
+    <string name="pref_app">com.riotfallen.testgooglemapsapi.pref</string>
+    <string name="pref_lat">com.riotfallen.testgooglemapsapi.pref_lat</string>
+    <string name="pref_long">com.riotfallen.testgooglemapsapi.pref_long</string>
+    <string name="pref_name">com.riotfallen.testgooglemapsapi.pref_name</string>
+    <string name="open_place_picker">Open Place Picker</string>
+</resources>
